@@ -7,11 +7,11 @@
   },
   "author": "Jake Peyser (https://github.com/JakePeyser)",
   "scripts": {
-    "callbacks": "node ./part-1/callbacks",
-    "promises": "node ./part-1/promises",
-    "async": "node ./part-1/async-functions",
-    "sync": "node ./part-2/sync-style",
-    "errors": "node ./part-2/error-handling"
+    "callbacks": "node ./evolution/callbacks",
+    "promises": "node ./evolution/promises",
+    "async": "node ./evolution/async-functions",
+    "sync": "node ./benefits/sync-style",
+    "errors": "node ./benefits/error-handling"
   },
   "license": "MIT",
   "repository": {
