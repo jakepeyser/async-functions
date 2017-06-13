@@ -1,0 +1,26 @@
+{
+  "name": "async-functions",
+  "description": "Examples demonstrating the usage of ECMAScript 2018 async functions",
+  "private": false,
+  "engines": {
+    "node": "8.1.x"
+  },
+  "author": "Jake Peyser (https://github.com/JakePeyser)",
+  "scripts": {
+    "callbacks": "node ./part-1/callbacks",
+    "promises": "node ./part-1/promises",
+    "async": "node ./part-1/async-functions",
+    "sync": "node ./part-2/sync-style",
+    "errors": "node ./part-2/error-handling"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakepeyser/async-functions.git"
+  },
+  "dependencies": {
+    "awaiting": "^3.0.0",
+    "axios": "^0.16.2",
+    "request": "^2.81.0"
+  }
+}
