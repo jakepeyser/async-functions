@@ -2,7 +2,7 @@
 
 This repo contains code examples of JavaScript [async functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) and their predecessors in the JS language. It is meant as a reference point for understanding the importance and context of this new pattern.
 
-These code snippets were originally created as collateral for the blog post I wrote titled **BLOG POST LINK NEEDED**.
+These code snippets were originally created as collateral for the blog post I wrote titled [Where Did Async/Await Come from and Why Use It?](https://appendto.com/2017/06/asyncawait-come-use).
 
 ### [Part 1 - Historical Context of Async Functions](./evolution)
 
